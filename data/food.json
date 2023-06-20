@@ -1,0 +1,19 @@
+{
+  "account": {
+    "firstname": "branko",
+    "lastname": "milovanovic",
+    "email": "brankomilovanovic@gmail.com",
+    "username": "brankomilovanovic",
+    "password": "password"
+  },
+  "order": [
+    {
+      "package": "Double burger",
+      "quantity": 2
+    },
+    {
+      "package": "HEART ATTACK",
+      "quantity": 4
+    }
+  ]
+}
